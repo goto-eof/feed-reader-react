@@ -7,3 +7,5 @@ Therefore I pushed this component, perhaps could be usefull also for you.
 ```
 yarn start
 ```
+
+In order to see some results go to https://cors-anywhere.herokuapp.com/corsdemo and click on the "Request temporary access to the demo server".
